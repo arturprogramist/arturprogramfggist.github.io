@@ -1,0 +1,135 @@
+body{
+    background-color: #eaeaea;
+    margin: 0;
+    padding: 0;
+    font-family: "josefin sans" ;
+}
+header {
+    width: 1120px;
+    padding-top: 158px;
+    padding-bottom: 115px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logotip{
+    width: 382px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    display: block;
+}
+img{
+    width: 100%;
+}
+nav {
+    width: 1120px;
+    background: #f8f8f8;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 83px;
+    padding: 43px 0;
+    box-shadow: 0 0 13px rgba(11, 12, 12, 0.15);
+}
+.menu_items{
+    width: 950px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+.menu_logo {
+    width: 87px;
+    margin-right: 90px;
+}
+.menu_links {
+    width: 534px;
+    height: 14px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a {
+    background-color: transparent;
+}
+.bananas{
+    box-shadow: 0 0 13px rgba(11, 12, 12, 0.15);
+    max-width: 1119px;
+    width: 100%;
+    height: 438px;
+    margin: auto;
+    margin-bottom: 85px;
+    /* padding-bottom: 65px; */
+}
+.logo_bananas{
+    width: 252px;
+    height: 105px;
+    padding-top: 50px;
+    padding-left: 91px;
+    margin-bottom: 35px;
+}
+h2{
+    display: block;
+    width: 355px;
+    height: 20px;
+    color: #921026;
+    font-family: "Playfair Display";
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.6px;
+    margin-top: 0px;
+    padding-left: 91px;
+    margin-bottom: 28px;
+}
+.banan_h{
+    width: 355px;
+    height: 20px;
+    color: #921026;
+    font-family: "Playfair Display";
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.6px;
+}
+p{
+    display: block;
+    width: 312px;
+    height: 90px;
+    color: #000000;
+    font-family: "Josefin Sans" sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 0.4px;
+    padding-left: 91px;
+}
+.banan_p{
+    width: 312px;
+    height: 90px;
+}
+button{
+    width: 105px;
+    height: 28px;
+    border: 1px solid #c2c2c2;
+    margin-left: 91px;
+    background-color: #f8f8f8;
+}
+span{
+    width: 78px;
+    height: 10px;
+    color: #000000;
+    font-family: "Josefin Sans";
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
